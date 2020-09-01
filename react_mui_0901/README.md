@@ -46,4 +46,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-[![screenshot](https://raw.githubusercontent.com/romankurnovskii/JS-frameworks-snippets/master/Screenshot.jpg "screenshot")]
+<img src = “Screenshot.jpg” width = _ height =_>
+
+[![screenshot](https://raw.githubusercontent.com/romankurnovskii/JS-frameworks-snippets/react_mui_0901/master/Screenshot.jpg "screenshot")]
