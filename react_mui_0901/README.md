@@ -1,4 +1,4 @@
-# Template
+## Template
 
 Template cards/view/edit/login
 
@@ -15,11 +15,9 @@ PlayCircleFilledIcon
 RestoreIcon
 FavoriteIcon
 
-
 ## Requirements
 
 [Node.js](https://nodejs.org/en/)
-
 
 ## Installation
 
@@ -30,6 +28,8 @@ npm install # installing the dependencies
 npm start # runs the app in the development mode
 ```
 
+## Screenshot of resuslt
+<img src ="Screenshot.jpg" width = _ height =_>
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -45,12 +45,3 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-
-<img src ="Screenshot.jpg" width = _ height =_>
-
-![screenshot](master/Screenshot.jpg)
-![screenshot](/Screenshot.jpg)
-
-[![screenshot](https://raw.githubusercontent.com/romankurnovskii/JS-frameworks-snippets/react_mui_0901/master/Screenshot.jpg "screenshot")]
-
-
